@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.w{
+    background-color: cadetblue;
+    color: black;
+}
+li,h1,ul,img{
+    display: inline;
+    margin:5px;
+}
+ul{
+    margin-left: 80%;
+}
+li:hover{
+    background-color: azure;
+    color: black;
+}
+video{
+    display: inline-table;
+    border-style: solid;
+    border-color: black;
+    width:100%;
+    align-items: center;
+    border-radius: 30px;
+    
+}
+.nano{
+    display:inline-block;
+    margin: 50px 50px;
+    width: 250px;
+    padding: 20px 20px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 30px;
+}
+.nano:hover{
+    background-color: rgb(97, 213, 194);
+}
+img{
+    border-radius: 100px;
+}
+.m{
+    background-color: rgb(212, 184, 184);
+    color: rgb(112, 4, 29);
+    text-align: center;
+
+}
